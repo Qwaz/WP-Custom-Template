@@ -1,7 +1,7 @@
 WP-Custom-Template
 ==================
 
-#How to use
+## How to use
 
 Templates can be defined in 'setting' page. You can load templates in posts using shortcode, `[template <template_name>]`
 
