@@ -192,7 +192,7 @@
 			<h4>Description</h4>
 			<textarea id="template_description" rows="5" cols="40"></textarea>
 
-			<p>w
+			<p>
 				<button id="template_submit" class="button button-primary" onclick="submitAjax(false)"><?=__('Save Changes')?></button>
 				<button id="template_delete" class="button button-primary" onclick="submitAjax(true)"><?=__('Delete')?></button>
 			</p>
